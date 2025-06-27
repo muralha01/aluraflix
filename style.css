@@ -1,5 +1,5 @@
 body {
-background-color: black;
+background-color: gray;
 color: crimson;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 0%;
@@ -7,7 +7,7 @@ margin: 0%;
 
 header {
 font-size: medium;
-border-bottom: double 10px gray
+border-bottom: double 10px red
 padding: 6px;
 text-align: center;
 }
