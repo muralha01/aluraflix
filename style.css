@@ -1,0 +1,22 @@
+body {
+background-color: black;
+color: crimson;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 0%;
+}
+
+header {
+font-size: medium;
+border-bottom: double 5px red;
+padding: 6px;
+text-align: center;
+}
+
+h1 {
+font-size: 30px ;
+}
+
+p {
+    font-size: 20px;
+}
+
