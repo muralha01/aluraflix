@@ -1,6 +1,6 @@
 body {
-background-color: gray;
-color: crimson;
+background-color:  black;
+color: rgb(9, 153, 29);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 margin: 0%;
 }
@@ -13,7 +13,7 @@ text-align: center;
 
 h1 {
 font-size: 50px ;
-border-bottom: double 10px red
+border-bottom: double 10px red;
 text-align: center;
 }
 
