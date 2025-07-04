@@ -7,16 +7,24 @@ margin: 0%;
 
 header {
 font-size: medium;
-border-bottom: double 10px red
 padding: 6px;
 text-align: center;
 }
 
 h1 {
 font-size: 50px ;
+border-bottom: double 10px red
+text-align: center;
 }
 
 p {
     font-size: 20px;
+    text-align: center;
 }
 
+iframe, video {
+display: block;
+margin: 0 auto;
+width: 80%;
+max-width: 700px;
+}
